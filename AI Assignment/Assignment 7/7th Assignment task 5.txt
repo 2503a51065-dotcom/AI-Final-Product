@@ -1,0 +1,4 @@
+def add_five(value):
+    return int(value) + 5
+
+print(add_five("10"))

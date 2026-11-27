@@ -1,0 +1,10 @@
+class Car:
+    def start(self):
+        return "Car started"
+
+    def drive(self):
+        return "Car is driving"
+
+my_car = Car()
+print(my_car.start())
+print(my_car.drive())
